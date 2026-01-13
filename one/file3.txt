@@ -1,0 +1,4 @@
+this is unsaved file for testing for stashed.
+this is the default checkoint 
+here is somthing changed
+git add -A
